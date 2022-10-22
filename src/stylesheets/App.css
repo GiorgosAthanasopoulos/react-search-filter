@@ -1,0 +1,9 @@
+#container {
+    text-align: center;
+}
+
+#search-bar {
+    border: 2px solid black;
+    outline: none;
+    font-size: 20px;
+}
